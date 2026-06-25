@@ -195,6 +195,8 @@ void loop() {
 
   lcd.print(" ");
   lcd.print(daysOfWeek[now.dayOfTheWeek()]);
+  delay(3000);
+}
 ```
 
   delay(3000);
