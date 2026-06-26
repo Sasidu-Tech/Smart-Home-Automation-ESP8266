@@ -12,7 +12,8 @@
 
 #ESP8266 (NodeMCU) Smart Home Wiring Diagram
 
-![Uploading file_000000007bf871fab5839ff8e7e98ae0.png…]()
+<img width="1536" height="1024" alt="file_000000007bf871fab5839ff8e7e98ae0" src="https://github.com/user-attachments/assets/b3f2df61-8b61-4073-bd7f-e597225c53f0" />
+
 
 
 #Testing Video
