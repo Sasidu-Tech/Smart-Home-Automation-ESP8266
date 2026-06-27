@@ -77,5 +77,6 @@ Install the following libraries in Arduino IDE:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Sasidu-Tech/Smart-Home-Automation-ESP8266.git
+Author : Sasidu Wishshanka
 ```
 
